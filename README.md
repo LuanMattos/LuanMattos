@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://s3.sa-east-1.amazonaws.com/circle-photo/0ca8ba312c524d97beb8f8c203e33ac9/b3fbf2c08626628d09f4242f4d03fbd0" width=200 >
+<img src="https://s3.sa-east-1.amazonaws.com/circle-photo/0ca8ba312c524d97beb8f8c203e33ac9/4105faee7715a6d84cfa98bf91fd5fe1" width=200 >
 
 ### Hi 👋
 - 🔭 I am a student of Software Analysis and Development
