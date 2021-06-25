@@ -24,7 +24,7 @@ Experience in the following frameworks<br>
 -Experience with ranking system for timelines<br>
 <br>
 
-I have more contributions than what appears to you on GitHub (private projects, I don't have Git Hub Premium), contact me and I'll show you;)
+I have more contributions than what appears to you on GitHub (private projects, I don't have Git Hub Premium), contact me and I'll show you :wink:
 
 
 
