@@ -13,6 +13,8 @@ Qualifications
 <br>
 -Development with Java Script
 <br>
+-Development with C
+<br>
 <br>
 Experience in the following frameworks<br>
 -Creating API's with Lumen<br>
