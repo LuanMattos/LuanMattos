@@ -23,7 +23,8 @@ Experience in the following frameworks<br>
 -Experience with devops<br>
 -Experience with ranking system for timelines<br>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?LuanMattos=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LuanMattos)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 I have more contributions than what appears to you on GitHub (private projects, I don't have Git Hub Premium), contact me and I'll show you :wink:
 
