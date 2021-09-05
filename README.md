@@ -2,11 +2,10 @@
 
 - 🔭 I am a student of Software Analysis and Development
 - 🌱 Penetration test enthusiast
-- 🤝Currently works at Compasso UOL and Circle Social Sharing
+- 🤝Currently works at Compasso UOL
 
 Qualifications
--Penetration test with Metasploitable
-<br>
+
 -Development with Python
 <br>
 -Development with PHP
